@@ -141,4 +141,3 @@ MIT License - see LICENSE file for details
 ## Acknowledgments
 
 - [Context7](https://context7.com) for providing the MCP server for real-time documentation access
-- [VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples) for the base extension structure
