@@ -2,7 +2,7 @@
 	"name": "context7-mcp",
 	"displayName": "Context7 MCP Server",
 	"description": "Real-time code and documentation access for AI assistants via Context7 MCP server",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Upstash",
 	"private": true,
 	"icon": "context7logo.png",
