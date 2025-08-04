@@ -30,12 +30,12 @@ The Context7 MCP server is automatically registered when the extension activates
 
 When using an AI assistant in VS Code, you can now ask questions like:
 
-- "Show me how to use React hooks"
-- "What are the best practices for Next.js routing?"
-- "How do I implement authentication with Supabase?"
-- "Give me examples of using TypeScript decorators"
-- "How do I set up a GraphQL server with Apollo?"
-- "What are the latest features in Node.js 20?"
+- "Show me how to use React hooks use context7"
+- "What are the best practices for Next.js routing? use context7"
+- "How do I implement authentication with Supabase? use context7"
+- "Give me examples of using TypeScript decorators use context7"
+- "How do I set up a GraphQL server with Apollo? use context7"
+- "What are the latest features in Node.js 20? use context7"
 
 The Context7 MCP server will automatically:
 1. Resolve the library name to the appropriate Context7 library ID
